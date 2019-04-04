@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pen Brothers Exam</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="action_select_city">Tap to select a city</string>
+    <string name="error_list_empty">List is empty</string>
+
+    <string name="selected_city">You selected: %1$s</string>
+</resources>
